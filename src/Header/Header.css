@@ -1,0 +1,10 @@
+.header{
+    height: 100px;
+    width: 100%;
+    background-color: brown;
+    color: aliceblue;
+    margin-top: auto;
+}
+h1{
+    padding-top: 20px;
+}
