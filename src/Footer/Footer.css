@@ -1,6 +1,9 @@
 .footer{
+    position: fixed;
+    bottom: 0;
     background-color: brown;
     height: 50px;
+    width: 100%;
     color: aliceblue;
 }
 h1{

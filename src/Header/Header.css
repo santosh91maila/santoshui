@@ -1,11 +1,12 @@
 .header{
-    height: 100px;
+    position: absolute;
+    top: 0;
+    height: 60px;
     width: 100%;
     background-color: brown;
     color: aliceblue;
-    position: relative;
-    margin-top: 0;
 }
+
 h1{
-    padding-top: 20px;
+    margin: 1px;
 }
